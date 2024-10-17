@@ -1,0 +1,27 @@
+# Objetivos
+
+- Crear un clúster formado por una máquina máster y otras dos máquinas (node01 y node02).
+
+## Requisitos iniciales
+
+1. Descarga VirtualBox: [https://www.virtualbox.org/](https://www.virtualbox.org/)
+2. Descarga una distribución de Ubuntu compatible (recomendable una distribución antigua, nos asegura mayor compatibilidad): [https://ubuntu.com/download/server](https://ubuntu.com/download/server)
+
+## Características
+
+- **Máquina Master**: 
+  - 1 vCPU
+  - 2 GB de RAM
+  - 25 GB de disco duro
+
+- **Máquinas de Nodo (node01, node02, ...)**
+  - 1 vCPU
+  - 1 GB de RAM
+  - 10 GB de disco duro
+
+## Creación máquina template para la post-creación de las máquinas del clúster
+
+
+
+
+
